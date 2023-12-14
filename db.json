@@ -1,0 +1,33 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "category": "Tecnologia",
+            "title": "O guia definitivo do blog",
+            "resume": "Lorem ipsum",
+            "description": "Lorem ipsum Lorem ipsum Lorem ipsum",
+            "author": "Beltrano",
+            "date": "Set 1, 2023"
+        },
+
+        {
+            "id": 2,
+            "category": "Coquetelaria",
+            "title": "O que é a coquetelaria?",
+            "resume": "Lorem ipsum",
+            "description": "Lorem ipsum Lorem ipsum Lorem ipsum",
+            "author": "Fulano",
+            "date": "Dez 7, 2023"
+        },
+
+        {
+            "id": 3,
+            "category": "Cinema",
+            "title": "Melhores filmes do ano",
+            "resume": "Lorem ipsum",
+            "description": "Lorem ipsum Lorem ipsum Lorem ipsum",
+            "author": "Ciclano",
+            "date": "Aug 27, 2023"
+        }
+    ]
+}

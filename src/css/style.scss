@@ -13,4 +13,13 @@ body {
     background-color: #050607;
 }
 
+button {
+    padding: 8px;
+
+    border: 0;
+    border-radius: 4px;
+
+    background-color: $white-normal;
+}
+
 @import 'sass/layout';

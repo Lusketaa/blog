@@ -1,12 +1,11 @@
 import Header from './components/Header';
-import Article from './components/Article';
-
+import Routes from './routes';
 
 function App() {
   return (
     <>
-      <Header></Header>
-      <Article></Article>
+      <Header />
+      <Routes />
     </>
   );
 }
